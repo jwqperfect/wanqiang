@@ -1,3 +1,9 @@
+/*
+ * @Author: jiangwanqiang
+ * @Date: 2024-05-20 18:05:06
+ * @Last Modified by:   jiangwanqiang
+ * @Last Modified time: 2024-05-20 18:05:06
+ */
 // 解决toFixed保留小数的问题
 const formatToFixed = (money, decimals = 2) => {
   return (

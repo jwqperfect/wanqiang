@@ -1,4 +1,10 @@
-// a. index.js 入口文件
+/*
+ * @Author: jiangwanqiang
+ * @Date: 2024-05-20 17:59:34
+ * @Last Modified by: jiangwanqiang
+ * @Last Modified time: 2024-05-20 18:04:47
+ */
+
 import Format from "./src/format";
 import Validate from "./src/validate";
 
